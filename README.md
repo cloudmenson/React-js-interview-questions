@@ -6,12 +6,8 @@
 
 <details>
 <summary>
-  <style>
-      summary {
-        color: red;
-      }
-    </style>
-  Какие типы данных существуют в JavaScript?</summary>
+  Какие типы данных существуют в JavaScript?
+</summary>
 <div>
   <ul>
     <li>
